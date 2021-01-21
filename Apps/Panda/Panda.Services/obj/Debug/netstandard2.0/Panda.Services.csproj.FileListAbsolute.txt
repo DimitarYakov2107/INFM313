@@ -1,0 +1,12 @@
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.deps.json
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.dll
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Services.pdb
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Data.dll
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\bin\Debug\netstandard2.0\Panda.Data.pdb
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.csproj.CopyComplete
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.dll
+C:\Users\Dimitar\source\repos\Panda\Apps\Panda\Panda.Services\obj\Debug\netstandard2.0\Panda.Services.pdb
